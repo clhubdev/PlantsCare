@@ -41,6 +41,7 @@ export default function Home() {
         <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
           <p>An application developed by</p>
           <Link target="_blank" rel="noopener noreferrer" href="https://github.com/clhubdev">Clément HUBERT</Link>
+          <Link target="_blank" rel="noopener noreferrer" href="https://plants-care.vercel.app">© plants-care.vercel.app</Link>
         </div>
       </footer>
     </div>
